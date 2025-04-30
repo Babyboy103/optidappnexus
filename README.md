@@ -1,2 +1,3 @@
 # optidappnexus
 # livesdecentralized
+# syntheticsweb3
